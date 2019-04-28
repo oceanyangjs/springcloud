@@ -1,0 +1,3 @@
+配置服务器：从git取服务器版本号等配置
+通过freshconfigutil配合rabbitmq实现数据的热处理变化
+需要视图微服务中有相关配置
